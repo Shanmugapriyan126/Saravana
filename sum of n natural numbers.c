@@ -4,7 +4,7 @@ void main()
     int n,a=0;
     printf("Enter the natural numbers:");
     scanf("%d",&n);
-    for(int i=1;i<n;i++)
+    for(int i=0;i<=n;i++)
     {
         a=a+i;
     }
